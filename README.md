@@ -1,7 +1,8 @@
 # Sistema-de-Caronas-Ideathon-Fatec-
-Repositorio criado com o proposito de facilitar a comunicação e o controle de versões com o time do ideathon fatec 2026
+Repositório criado com o propósito de facilitar a comunicação e o controle de versões entre os integrantes da equipe do Ideathon Fatec 2026.
 
-o projeto tem como objetivo incentivar a criatividade e a aplicação de conhecimentos técnicos, a competição busca desenvolver habilidades de colaboração, pesquisa, resolução de problemas, planejamento e comunicação. atraves da criação de um prototipo funcional.
+O projeto tem como objetivo incentivar a criatividade e a aplicação de conhecimentos técnicos. A competição busca desenvolver habilidades de colaboração, pesquisa, resolução de problemas, planejamento e comunicação por meio da criação de um protótipo funcional.
 
-o sistema aborda um dificuldade diária de inúmeros estudantes para chegarem as faculdades e os altos custos de mobilidade
-a proposta centrar e desenvolver um aplicativo mobile que facilite o encontro de caronas entre estudantes de uma mesma instituição proporcionando um maior contato entre os alunos.
+O sistema aborda uma dificuldade enfrentada diariamente por inúmeros estudantes: o deslocamento até as instituições de ensino e os altos custos de mobilidade.
+
+A proposta é desenvolver um aplicativo mobile que facilite a conexão entre estudantes de uma mesma instituição interessados em compartilhar caronas, promovendo a economia nos custos de transporte e uma maior integração entre os alunos.
