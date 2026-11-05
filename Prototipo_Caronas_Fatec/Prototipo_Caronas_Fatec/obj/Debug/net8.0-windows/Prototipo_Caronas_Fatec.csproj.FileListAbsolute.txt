@@ -1,0 +1,17 @@
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\bin\Debug\net8.0-windows\Prototipo_Caronas_Fatec.exe
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\bin\Debug\net8.0-windows\Prototipo_Caronas_Fatec.deps.json
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\bin\Debug\net8.0-windows\Prototipo_Caronas_Fatec.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\bin\Debug\net8.0-windows\Prototipo_Caronas_Fatec.dll
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\bin\Debug\net8.0-windows\Prototipo_Caronas_Fatec.pdb
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\Prototipo_Caronas_Fatec.Form1.resources
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\Prototipo_Caronas_Fatec.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\Prototipo_Caronas_Fatec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\Prototipo_Caronas_Fatec.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\Prototipo_Caronas_Fatec.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\Prototipo_Caronas_Fatec.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\Prototipo_Caronas_Fatec.dll
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\refint\Prototipo_Caronas_Fatec.dll
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\Prototipo_Caronas_Fatec.pdb
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\Prototipo_Caronas_Fatec.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\ref\Prototipo_Caronas_Fatec.dll
+C:\Users\Pichau\Desktop\Trabalho_Ronnie\Cafe\Prototipo_Caronas_Fatec\Prototipo_Caronas_Fatec\obj\Debug\net8.0-windows\Prototip.B774CDBB.Up2Date
