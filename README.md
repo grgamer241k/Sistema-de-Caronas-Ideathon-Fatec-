@@ -6,3 +6,5 @@ O projeto tem como objetivo incentivar a criatividade e a aplicação de conheci
 O sistema aborda uma dificuldade enfrentada diariamente por inúmeros estudantes: o deslocamento até as instituições de ensino e os altos custos de mobilidade.
 
 A proposta é desenvolver um aplicativo mobile que facilite a conexão entre estudantes de uma mesma instituição interessados em compartilhar caronas, promovendo a economia nos custos de transporte e uma maior integração entre os alunos.
+
+Tecnologias Utilizadas no protótipo: Visual studio C# windows forms
